@@ -2,7 +2,7 @@
 <h3 align="center">University student at UCT (University Of Cape Town) studying: BSc in Computer Science and Business Computing.</h3>
 <h4 align="center"> Big Linux nerd, system administrator, backend developer and cybersecurity enthusiast. </h4>
 
-- 💳 I’m currently working on: **Payway (Cashless Payment Solution) - [Payway3](https://payway3.iqt.co.za) & [LundryConnect](https://www.laundrysolutions360.co.za/)**
+- 💳 I’m currently working on: **Payway (Cashless Payment Solution) - [Payway3](https://payway3.iqt.co.za) & [LaundryConnect](https://www.laundrysolutions360.co.za/laundry-connect/)**
 
 - 🖥️ My Linux expertise: **Ubuntu, Debian, Fedora + more!** _Ask me anything about Linux desktop, I probably can help you!_
 
